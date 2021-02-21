@@ -53,7 +53,7 @@
     {
       "name": "06",
       "setup": "",
-      "run": "./soal-06",
+      "run": "./soal-01",
       "input": "text6.txt",
       "output": "Kode untuk membuka koper : mwownq",
       "comparison": "included",
@@ -63,7 +63,7 @@
     {
       "name": "07",
       "setup": "",
-      "run": "./soal-07",
+      "run": "./soal-01",
       "input": "text7.txt",
       "output": "Kode untuk membuka koper : wd",
       "comparison": "included",
