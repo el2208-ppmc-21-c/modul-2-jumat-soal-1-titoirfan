@@ -27,9 +27,9 @@ int main(){
     fgets(s3, sizeof(s3), myfile);
     fgets(s4, sizeof(s4), myfile);
 
-    strtok(s1, "\n");
-    strtok(s2, "\n");
-    strtok(s3, "\n");
+    strtok(s1, "\r");
+    strtok(s2, "\r");
+    strtok(s3, "\r");
     ec = atoi(s4);
 
     //penghapusan junk code dan ppenyisipan missing code
